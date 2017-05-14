@@ -28,7 +28,7 @@ The objective of this project is to identify and track vehicles using computer v
 
 First, I loaded in the data from the `vehicles` and `non-vehicles` labeled data sets from the [GTI Vehicle Image Database](http://www.gti.ssr.upm.es/data/Vehicle_database.html). The data is later further divided into training, testing, and validation sets. Here are some random sample vehicle and non-vehicle images.
 
-![alt text][image0]
+![alt text][image0]  
 ![alt text][image1]
 
 ### Color Histogram
