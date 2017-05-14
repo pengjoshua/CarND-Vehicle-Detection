@@ -10,7 +10,8 @@ The goals and steps of this project are the following:
 * Estimate a bounding box for vehicles detected.
 
 [//]: # (Image References)
-[image1]: ./images/randomimages.png
+[image0]: ./images/randomvehicles.png
+[image1]: ./images/randomnonvehicles.png
 [image2]: ./images/hogfeatures.png
 [image3]: ./images/slidingwindows.png
 [image4]: ./images/bboxes.png
@@ -27,6 +28,7 @@ The objective of this project is to identify and track vehicles using computer v
 
 First, I loaded in the data from the `vehicles` and `non-vehicles` labeled data sets from the [GTI Vehicle Image Database](http://www.gti.ssr.upm.es/data/Vehicle_database.html). The data is later further divided into training, testing, and validation sets. Here are some random sample vehicle and non-vehicle images.
 
+![alt text][image0]
 ![alt text][image1]
 
 ### Color Histogram
